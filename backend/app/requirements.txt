@@ -216,8 +216,6 @@ python-multipart==0.0.9
 python-on-whales==0.78.0
 pytz==2024.1
 PyVirtualDisplay==3.0
-pywin32==306
-pywinpty==2.0.13
 PyYAML==6.0.2
 pyzmq==26.2.0
 redis==5.2.1
@@ -258,7 +256,6 @@ sphinxcontrib-qthelp==2.0.0
 sphinxcontrib-serializinghtml==2.0.0
 SQLAlchemy==2.0.32
 sqlparse==0.5.1
-sspilib==0.3.1
 stack-data==0.6.3
 starlette==0.38.2
 supervision==0.25.1
